@@ -1,2 +1,2 @@
-# shopping-bag
-A React/Redux shopping bag component.
+# shopping-bag-react
+A shopping bag react component.
